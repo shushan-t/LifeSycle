@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/LifeSycle/static/css/main.cd1ab00f.chunk.css",
+    "main.js": "/LifeSycle/static/js/main.13f7f63c.chunk.js",
+    "main.js.map": "/LifeSycle/static/js/main.13f7f63c.chunk.js.map",
+    "runtime-main.js": "/LifeSycle/static/js/runtime-main.8c8bf4c0.js",
+    "runtime-main.js.map": "/LifeSycle/static/js/runtime-main.8c8bf4c0.js.map",
+    "static/js/2.af128ca6.chunk.js": "/LifeSycle/static/js/2.af128ca6.chunk.js",
+    "static/js/2.af128ca6.chunk.js.map": "/LifeSycle/static/js/2.af128ca6.chunk.js.map",
+    "static/js/3.eee4295d.chunk.js": "/LifeSycle/static/js/3.eee4295d.chunk.js",
+    "static/js/3.eee4295d.chunk.js.map": "/LifeSycle/static/js/3.eee4295d.chunk.js.map",
+    "index.html": "/LifeSycle/index.html",
+    "static/css/main.cd1ab00f.chunk.css.map": "/LifeSycle/static/css/main.cd1ab00f.chunk.css.map",
+    "static/js/2.af128ca6.chunk.js.LICENSE.txt": "/LifeSycle/static/js/2.af128ca6.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/LifeSycle/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8c8bf4c0.js",
+    "static/js/2.af128ca6.chunk.js",
+    "static/css/main.cd1ab00f.chunk.css",
+    "static/js/main.13f7f63c.chunk.js"
+  ]
+}
